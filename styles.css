@@ -1,0 +1,27 @@
+img {
+    height:200px;
+    border: 4px solid black;
+}
+
+body {
+  background-image: linear-gradient(to right, white, black); 
+}
+
+h1 {
+    font-family: 'Courgette', cursive;
+}
+
+h2 {
+    font-family: 'Courgette', cursive;
+}
+
+p {
+   font-family: 'Handlee', cursive;
+   font-weight: bold;
+   
+}
+
+ul {
+    font-weight: bold;
+    font-family: 'Handlee', cursive;
+}
